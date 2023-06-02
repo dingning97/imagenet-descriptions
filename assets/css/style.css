@@ -10,11 +10,11 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444;
+  color: #000000;
 }
 
 a {
-  color: #4fa6d5;
+  color: #00a6ff;
   text-decoration: none;
 }
 
@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Header
 --------------------------------------------------------------*/
 #header {
-  height: 80px;
+  height: 60px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #main {
-  margin-top: 80px;
+  margin-top: 1px;
 }
 
 /*--------------------------------------------------------------
