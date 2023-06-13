@@ -1,4 +1,4 @@
-Can Large Pre-trained Models Help Vision Models on Perception Tasks?\
+GPT4Image: Can Large Pre-trained Models Help Vision Models on Perception Tasks?\
 Paper link : https://arxiv.org/pdf/2306.00693.pdf
 
 We generate detailed image descriptions for ImageNet-1k by using MiniGPT-4.\
